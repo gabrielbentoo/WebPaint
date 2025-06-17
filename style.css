@@ -1,0 +1,52 @@
+.bodyBackground 
+{
+  background-image: url("bg1.png");
+  background-position: center;
+  background-size: cover;
+}
+  
+body
+{
+  cursor: pointer;
+}
+  
+h1
+{
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: pink;
+  color: purple; 
+  font-size: 50px;
+}
+  
+#myCanvas
+{
+  border-width:10px;
+  background-color: white; 
+  border-style:ridge;
+  border-color: pink;
+}
+
+button 
+{
+  background-color: purple;
+  border: none;
+  color: white;
+  padding: 10px 42px;
+  font-size: 16px;
+}
+
+span
+{
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: purple;
+  color: violet;
+  font-size: 30px
+}
+
+input
+{
+  margin-right: 20px;
+  color: purple;
+  background-color: pink;
+}
+  
