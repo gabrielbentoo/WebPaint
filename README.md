@@ -1,7 +1,8 @@
 
 # WebPaint
 
-Aplicativo web para desenhos estilo paint, para fins educativos e treinar versionamento de codigo
+Aplicativo web para desenhos estilo paint, para fins educativos e treinar versionamento de codigo com git
+Projeto para fins educacionais
 
 
 
